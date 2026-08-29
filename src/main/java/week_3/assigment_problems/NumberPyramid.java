@@ -1,4 +1,4 @@
-package main.java.week_1.assigment_problems;
+package main.java.week_3.assigment_problems;
 
 public class NumberPyramid {
     void printNumberPyramid(int n) {
