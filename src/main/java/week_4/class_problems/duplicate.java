@@ -1,4 +1,4 @@
-package week_4.class_problems;
+package main.java.week_4.class_problems;
 
 public class duplicate {
     public static boolean containsDuplicate(int[] nums) {
