@@ -1,20 +1,26 @@
-## Date: 05-09-2026
+## Date: 12-09-2026
 
 **Today's Work:**
-Completed Week 4 class problems and all 5 Category C Array assignment problems. Implemented logic-building solutions for:
-- Product of Array Except Self (Prefix/Suffix products)
-- Maximum Subarray (Kadane's Algorithm)
-- 3Sum (Sorting and Two-Pointer technique)
-- Subarray Sum Equals K (Prefix sums with HashMap)
-- Find Minimum in Rotated Sorted Array (Modified Binary Search)
+Completed Week 5 class problems and all 5 assignment problems. Implemented logic-building solutions for:
+- ScoreMultiplier (array value updates with method logic)
+- DuplicatePick (duplicate detection using nested loops)
+- TopPerformer (min/max and spread tracking)
+- MatchGrid (row-wise average and classification)
+- DraftRank (sorting and ranking logic)
+
+**Assignment Problems:**
+- CurveBooster
+- DuplicateTeam
+- TopThree
+- SeatingGrid
+- ShortlistRank
 
 **Next Session Plan:**
-Set up `feature/session_3` and begin Week 5 class problems and assignments.
+well we see week 6 problems and its class problem and assignment.
 
 **Issues Faced:**
-- Tracking running prefix and suffix products simultaneously in Product of Array Except Self without using division.
--Grasping the "extend vs. restart" choice at each step of Kadane's algorithm in Maximum Subarray. 
--Systematically skipping duplicate values at multiple levels while using the two-pointer technique in 3Sum. 
--Understanding why a sliding window breaks down with negative numbers and using a prefix-sum frequency map in Subarray Sum Equals K. 
--Adapting binary search conditions to identify which half of the array contains the minimum element in Find Minimum in Rotated Sorted Array. 
-=====
+- Handling array updates without accidentally modifying the wrong index in ScoreMultiplier.
+- Comparing values carefully in DuplicatePick to avoid missing the first duplicate.
+- Tracking min and max values while still computing the spread correctly in TopPerformer.
+- Deciding whether a row is above or below the threshold in MatchGrid.
+- Sorting and ranking candidates without extra comparison logic in DraftRank.
