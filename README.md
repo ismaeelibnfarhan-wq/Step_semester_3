@@ -16,7 +16,7 @@ Completed Week 5 class problems and all 5 assignment problems. Implemented logic
 - ShortlistRank
 
 **Next Session Plan:**
-well we see week 6 problems and its class problem and assignment.
+well we see week 6 problems and its class problem and assignment on oops concepts .And create new feature branch for it . 
 
 **Issues Faced:**
 - Handling array updates without accidentally modifying the wrong index in ScoreMultiplier.
