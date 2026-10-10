@@ -20,5 +20,5 @@ October 10, 2026
   - Maintained pure source files (`.java`) without generating or committing compiled `.class` binaries.
 
 ### Issues Faced:
-- **API Rate Limits:** Managed heavy batch output and token limits during code generation by pacing responses and structured file creations.
-- **Git Command Line Availability:** Identified missing Git CLI in the PowerShell terminal environment and provided instructions for local Git configuration and pushing changes to GitHub.
+- **Large Output Management Problem:** When many files and code tasks were created in one batch, it became difficult to keep track of everything and avoid confusion. To solve this, I divided the work into smaller parts and organized the project into clear folders so each task stayed manageable.
+- **Git Command Line Problem:** The Git tool was not available in the PowerShell terminal, so I had to check what was missing and learn how to set up Git locally before pushing the project to GitHub. This was a beginner-level setup issue, but it was important for saving and sharing the project correctly.
