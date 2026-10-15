@@ -8,6 +8,7 @@ abstract class ElectricityConnection {
     public ElectricityConnection(double units) {
         this.units = units;
     }
+    ""
 
     public abstract double calculateBill();
     public abstract String getTypeName();
